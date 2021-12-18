@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-# Copyright (C) @ZauteKm
+# Copyright (C) @IniReLifeKok
 # This program is free software: you can redistribute it and/or modify
 # it under the terms of the GNU Affero General Public License as published by
 # the Free Software Foundation, either version 3 of the License, or
@@ -30,9 +30,9 @@ if not os.path.isdir("./downloads"):
 
 Bot.start()
 User.start()
-print("\n[INFO] - STARTED VIDEO PLAYER BOT, JOIN @JOSPROJECTS !")
+print("\n[INFO] - STARTED VIDEO PLAYER BOT, JOIN @AsupanOYB !")
 
 idle()
 Bot.stop()
 User.stop()
-print("\n[INFO] - STOPPED VIDEO PLAYER BOT, JOIN @JOSPROJECTS !")
+print("\n[INFO] - STOPPED VIDEO PLAYER BOT, JOIN @AsupanOYB !")
